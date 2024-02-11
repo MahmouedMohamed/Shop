@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704493864732",
+    "project_id": "ny-shop",
+    "storage_bucket": "ny-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704493864732:android:571f370f8b22ffe3f71cd9",
+        "android_client_info": {
+          "package_name": "com.nyshop.ny_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHofyB38JisEcHoByIU0wq5nkllpnPO6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
